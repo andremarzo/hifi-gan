@@ -1,0 +1,1 @@
+python train.py --config config.json --input_wavs_dir ./dataset/wavs --input_mels_dir ./dataset/mels --input_training_file ./dataset/metadata_mel.csv --input_validation_file ./dataset/val.txt
